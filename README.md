@@ -1,7 +1,7 @@
 
-# LearnDash
+# ScholarsHub
 
-LearnDash is a fully functional ed-tech platform built using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). It aims to provide a seamless and interactive learning experience for students while allowing instructors to showcase their expertise and connect with learners globally.
+ScholarHub is a fully functional ed-tech platform built using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). It aims to provide a seamless and interactive learning experience for students while allowing instructors to showcase their expertise and connect with learners globally.
 
 ## Frontend Features
 
